@@ -3,8 +3,9 @@ put image file and this program will make text annotation and recognition
 
 ## Instalation
 ```
-$ pip install PyMuPDF
-$ pip install opencv-python
+$ conda install PyMuPDF
+$ conda install -c conda-forge tesseract
+$ conda install -c conda-forge pyocr
 ```
 
 ## Usage
